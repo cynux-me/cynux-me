@@ -15,7 +15,7 @@ An experienced IT Professional, Systems Specialist, and Safety Inspector with a 
 * **Inventory & Accounting Management:** Developing a desktop-based software solution using Python, Tkinter, and SQLite for small business inventory control.
 
 ### 🌐 Connect with Me
-* 💼 **Fiverr Professional Services:** [WordPress Security & Optimization Gigs](https://www.fiverr.com/monirislam_mohd)
+* 💼 **Fiverr Professional Services:** [WordPress Security & Optimization Gigs](https://www.fiverr.com/monirexp)
 * 🌍 **My Portfolios:** [Main Portfolio](https://dev-monir-portfolio.pantheonsite.io/)
 
 ---
